@@ -24,7 +24,7 @@
 
                 <data
                     android:host="testzbar"
-                    android:scheme="dianping" />
+                    android:scheme="reding" />
             </intent-filter>
         </activity>
         <activity android:name=".TestDecodeActivity">
